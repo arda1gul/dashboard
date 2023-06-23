@@ -1,0 +1,40 @@
+body {
+    background-color: #4a4a4a;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 100px 200px 200px 200px 100px;
+    grid-template-rows: repeat(12, 40px);
+}
+
+.header {
+    background-color: white;
+    grid-column: 2 / 4;
+    text-align: center;
+    grid-row: 3;
+    height: 600px;
+    border-radius: 50px;
+}
+
+.label-username,.label-password {
+    font-size: 30px;
+}
+
+.username,.password {
+    font-size: 20px;
+}
+
+.login,.registreer {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.right-info {
+    color: lightgreen;
+}
+
+.wrong-info  {
+    color: red;
+}

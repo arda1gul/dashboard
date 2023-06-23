@@ -1,0 +1,21 @@
+{
+    "seizoenen": [
+      {
+        "seizoen": "Seizoen 1",
+        "afleveringen": 25
+      },
+      {
+        "seizoen": "Seizoen 2",
+        "afleveringen": 12
+      },
+      {
+        "seizoen": "Seizoen 3",
+        "afleveringen": 22
+      },
+      {
+        "seizoen": "Seizoen 4",
+        "afleveringen": 16
+      }
+    ]
+  }
+  

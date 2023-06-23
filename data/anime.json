@@ -1,0 +1,30 @@
+[
+    {
+      "title": "Attack on Titan",
+      "release_date": "2013-04-07",
+      "episodes": 75,
+      "genre": "Action, Drama, Fantasy",
+      "seasons": 4,
+      "image": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg",
+      "page": "aot.html"
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "release_date": "2019-04-06",
+      "episodes": 37,
+      "genre": "Action, Demons, Historical",
+      "seasons": 2,
+      "image": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+      "page": "demon.html"
+    },
+    {
+      "title": "My Hero Academia",
+      "release_date": "2016-04-03",
+      "episodes": 113,
+      "genre": "Action, Comedy, Superhero",
+      "seasons": 6,
+      "image": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+      "page": "mha.html"
+    }
+  ]
+
