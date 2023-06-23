@@ -1,0 +1,299 @@
+[
+  {
+    "naam": "Arda Güler",
+    "leeftijd": 18,
+    "positie": "Middenvelder",
+    "club": "Fenerbahce SK",
+    "nationaliteit": "Türkiye",
+    "img": "https://kronos36.news/wp-content/uploads/2022/08/arda-gu%CC%88ler-1.jpg",
+    "bekers": "https://www.transfermarkt.nl/arda-guler/erfolge/spieler/861410"
+  },
+  {
+    "naam": "Lionel Messi",
+    "leeftijd": 36,
+    "positie": "Aanvaller",
+    "club": "Inter Miami",
+    "nationaliteit": "Argentinië",
+    "img": "https://static.dw.com/image/64142948_906.jpg",
+    "bekers": "https://www.transfermarkt.nl/lionel-messi/erfolge/spieler/28003"
+  },
+  {
+    "naam": "Cristiano Ronaldo",
+    "leeftijd": 38,
+    "positie": "Aanvaller",
+    "club": "Al Nassr",
+    "nationaliteit": "Portugal",
+    "img": "https://editorial.uefa.com/resources/0250-0c5117b83a72-956867b9220c-1000/format/wide1/cristiano_ronaldo_celebrates_his_fifth_title.jpeg?imwidth=2048",
+    "bekers": "https://www.transfermarkt.nl/cristiano-ronaldo/erfolge/spieler/8198"
+  },
+  {
+    "naam": "Neymar Jr.",
+    "leeftijd": 31,
+    "positie": "Aanvaller",
+    "club": "Paris Saint-Germain",
+    "nationaliteit": "Brazilië",
+    "img": "https://www.sportsnet.ca/wp-content/uploads/2013/06/Neymar_Goldenball640-scaled.jpg",
+    "bekers": "https://www.transfermarkt.nl/neymar/erfolge/spieler/68290"
+  },
+  {
+    "naam": "Kylian Mbappé",
+    "leeftijd": 24,
+    "positie": "Aanvaller",
+    "club": "Paris Saint-Germain",
+    "nationaliteit": "Frankrijk",
+    "img": "https://media.cnn.com/api/v1/images/stellar/prod/180717152959-mbappe-tease.jpg?q=w_2385,h_1590,x_0,y_0,c_fill",
+    "bekers": "https://www.transfermarkt.nl/kylian-mbappe/erfolge/spieler/342229"
+  },
+  {
+    "naam": "Kevin De Bruyne",
+    "leeftijd": 31,
+    "positie": "Middenvelder",
+    "club": "Manchester City",
+    "nationaliteit": "België",
+    "img": "https://media.nu.nl/m/nc7xbi3an3oj_wd1280/de-bruyne-voor-tweede-jaar-op-rij-verkozen-tot-beste-speler-in-premier-league.jpg",
+    "bekers": "https://www.transfermarkt.nl/kevin-de-bruyne/erfolge/spieler/88755"
+  },
+  {
+    "naam": "Erling Haaland",
+    "leeftijd": 22,
+    "positie": "Aanvaller",
+    "club": "Manchester City",
+    "nationaliteit": "Noorwegen",
+    "img": "https://resources.premierleague.com/photos/2023/05/21/c505359d-e96a-4aab-a893-a8649f778564/1492074970.jpg?width=860&height=573",
+    "bekers": "https://www.transfermarkt.nl/erling-haaland/erfolge/spieler/418560"
+  },
+  {
+    "naam": "Robert Lewandowski",
+    "leeftijd": 34,
+    "positie": "Aanvaller",
+    "club": "FC Barcelona",
+    "nationaliteit": "Polen",
+    "img": "https://img.bundesliga.com/tachyon/sites/2/2020/08/robert-lewandowski-fcb-ucl.jpg?crop=0px,0px,1920px,1080px",
+    "bekers": "https://www.transfermarkt.nl/robert-lewandowski/erfolge/spieler/38253"
+  },
+  {
+    "naam": "Mohamed Salah",
+    "leeftijd": 30,
+    "positie": "Aanvaller",
+    "club": "Liverpool",
+    "nationaliteit": "Egypte",
+    "img": "https://www.thisisanfield.com/wp-content/uploads/20190601-136-UEFA_Champions_League_Final-e1623747556196.jpg",
+    "bekers": "https://www.transfermarkt.nl/mohamed-salah/erfolge/spieler/148455"
+  },
+  {
+    "naam": "N'Golo Kanté",
+    "leeftijd": 31,
+    "positie": "Middenvelder",
+    "club": "Chelsea",
+    "nationaliteit": "Frankrijk",
+    "img": "https://i2-prod.football.london/article20710462.ece/ALTERNATES/s1200/0_Kante.jpg",
+    "bekers": "https://www.transfermarkt.nl/ngolo-kante/erfolge/spieler/225083"
+  },
+  {
+    "naam": "Paul Pogba",
+    "leeftijd": 30,
+    "positie": "Middenvelder",
+    "club": "Juventus",
+    "nationaliteit": "Frankrijk",
+    "img": "https://static.independent.co.uk/2022/10/31/17/GettyImages-999759542.jpg",
+    "bekers": "https://www.transfermarkt.nl/paul-pogba/erfolge/spieler/122153"
+  },
+  {
+    "naam": "Sadio Mané",
+    "leeftijd": 30,
+    "positie": "Aanvaller",
+    "club": "Bayern München",
+    "nationaliteit": "Senegal",
+    "img": "https://i.eurosport.com/2022/02/07/3308271-67645688-2560-1440.jpg",
+    "bekers": "https://www.transfermarkt.nl/sadio-mane/erfolge/spieler/200512"
+  },
+  {
+    "naam": "Virgil van Dijk",
+    "leeftijd": 31,
+    "positie": "Verdediger",
+    "club": "Liverpool",
+    "nationaliteit": "Nederland",
+    "img": "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0001/89/thumb_88870_default_news_size_5.jpeg",
+    "bekers": "https://www.transfermarkt.nl/virgil-van-dijk/erfolge/spieler/139208"
+  },
+  {
+    "naam": "Eden Hazard",
+    "leeftijd": 32,
+    "positie": "Aanvaller",
+    "club": "Real Madrid",
+    "nationaliteit": "België",
+    "img": "https://cdn.vox-cdn.com/thumbor/4VZWiqCoCaLRKEPm700t4xuKL6Q=/0x0:4180x2786/1200x800/filters:focal(1456x733:2124x1401)/cdn.vox-cdn.com/uploads/chorus_image/image/54975419/686826640.0.jpg",
+    "bekers": "https://www.transfermarkt.nl/eden-hazard/erfolge/spieler/50202"
+  },
+  {
+    "naam": "Toni Kroos",
+    "leeftijd": 33,
+    "positie": "Middenvelder",
+    "club": "Real Madrid",
+    "nationaliteit": "Duitsland",
+    "img": "https://www.dfb.de/fileadmin/_processed_/201612/csm_126535-toni-kroos-real-madrid-champions-league-getty_d56cb7d40a.jpg",
+    "bekers": "https://www.transfermarkt.nl/toni-kroos/erfolge/spieler/31909"
+  },
+  {
+    "naam": "Luis Suárez",
+    "leeftijd": 35,
+    "positie": "Aanvaller",
+    "club": "Grêmio Foot-Ball Porto Alegrense",
+    "nationaliteit": "Uruguay",
+    "img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/1200/675/luis-suarez-champions.jpg?ve=1&tl=1",
+    "bekers": "https://www.transfermarkt.nl/luis-suarez/erfolge/spieler/44352"
+  },
+  {
+    "naam": "Luka Modrić",
+    "leeftijd": 37,
+    "positie": "Middenvelder",
+    "club": "Real Madrid",
+    "nationaliteit": "Kroatië",
+    "img": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg):focal(1442x393:1444x391)/origin-imgresizer.eurosport.com/2018/12/04/2475761-51413930-2560-1440.jpg",
+    "bekers": "https://www.transfermarkt.nl/luka-modric/erfolge/spieler/27992"
+  },
+  {
+    "naam": "Karim Benzema",
+    "leeftijd": 35,
+    "positie": "Aanvaller",
+    "club": "Al Ittihad",
+    "nationaliteit": "Frankrijk",
+    "img": "https://imgresizer.eurosport.com/unsafe/2560x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2022/10/17/3474822-70843608-2560-1440.jpg",
+    "bekers": "https://www.transfermarkt.nl/karim-benzema/erfolge/spieler/18922"
+  },
+  {
+    "naam": "Marc-André ter Stegen",
+    "leeftijd": 31,
+    "positie": "Doelman",
+    "club": "FC Barcelona",
+    "nationaliteit": "Duitsland",
+    "img": "https://90l.tribuna.com/images/dd/e3/18/dde318e4f4bc4b43a223d7398f3f8b12500x500@2x.jpg",
+    "bekers": "https://www.transfermarkt.nl/marc-andre-ter-stegen/erfolge/spieler/74857"
+  },
+  {
+    "naam": "Thomas Müller",
+    "leeftijd": 33,
+    "positie": "Aanvaller",
+    "club": "Bayern München",
+    "nationaliteit": "Duitsland",
+    "img": "https://cdn.vox-cdn.com/thumbor/rug2o0l7qI8Ez_ycvSf2Cut9YtM=/0x0:4391x2927/1200x800/filters:focal(1845x1113:2547x1815)/cdn.vox-cdn.com/uploads/chorus_image/image/67211078/1266345570.jpg.0.jpg",
+    "bekers": "https://www.transfermarkt.nl/thomas-muller/erfolge/spieler/58358"
+  },
+  {
+    "naam": "Dani Carvajal",
+    "leeftijd": 31,
+    "positie": "Verdediger",
+    "club": "Real Madrid",
+    "nationaliteit": "Spanje",
+    "img": "https://sportsmax.tv/media/k2/items/cache/c6f850ea6cecc96676545209809eb9c9_XL.jpg",
+    "bekers": "https://www.transfermarkt.nl/daniel-carvajal/erfolge/spieler/138927"
+  },
+  {
+    "naam": "Son Heung-min",
+    "leeftijd": 31,
+    "positie": "Aanvaller",
+    "club": "Tottenham Hotspur",
+    "nationaliteit": "Zuid-Korea",
+    "img": "https://www.si.com/.image/t_share/MTkxMTk2ODkxNzc0MzMwMDkx/imago1012194218h.jpg",
+    "bekers": "https://www.transfermarkt.nl/heung-min-son/erfolge/spieler/91845"
+  },
+  {
+    "naam": "Bernardo Silva",
+    "leeftijd": 28,
+    "positie": "Middenvelder",
+    "club": "Manchester City",
+    "nationaliteit": "Portugal",
+    "img": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0809%2Fr1046399_1296x729_16%2D9.jpg",
+    "bekers": "https://www.transfermarkt.nl/bernardo-silva/erfolge/spieler/241641"
+  },
+  {
+    "naam": "Andrew Robertson",
+    "leeftijd": 29,
+    "positie": "Verdediger",
+    "club": "Liverpool",
+    "nationaliteit": "Schotland",
+    "img": "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0002/09/thumb_108282_default_news_size_5.jpeg",
+    "bekers": "https://www.transfermarkt.nl/andrew-robertson/erfolge/spieler/234803"
+  },
+  {
+    "naam": "Keylor Navas",
+    "leeftijd": 36,
+    "positie": "Doelman",
+    "club": "Nottingham Forrest FC",
+    "nationaliteit": "Costa Rica",
+    "img": "https://pbs.twimg.com/media/EDeOyC7X4AA7nvp?format=jpg&name=4096x4096",
+    "bekers": "https://www.transfermarkt.nl/keylor-navas/erfolge/spieler/79422"
+  },
+  {
+    "naam": "Frenkie de Jong",
+    "leeftijd": 25,
+    "positie": "Middenvelder",
+    "club": "FC Barcelona",
+    "nationaliteit": "Nederland",
+    "img": "https://90l.tribuna.com/images/3d/d6/51/3dd651e2784245859540d9c9c9b08f09500x500@2x.jpg",
+    "bekers": "https://www.transfermarkt.nl/frenkie-de-jong/erfolge/spieler/326330"
+  },
+  {
+    "naam": "Sergio Ramos",
+    "leeftijd": 37,
+    "positie": "Verdediger",
+    "club": "Paris Saint-Germain",
+    "nationaliteit": "Spanje",
+    "img": "https://pbs.twimg.com/media/EUWFqp4XkAENWnc.jpg",
+    "bekers": "https://www.transfermarkt.nl/sergio-ramos/erfolge/spieler/25557"
+  },
+  {
+    "naam": "Thibaut Courtois",
+    "leeftijd": 31,
+    "positie": "Doelman",
+    "club": "Real Madrid",
+    "nationaliteit": "België",
+    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TSDOXKQVFNP5ZCXSYHUVDSFQ4Y.jpg",
+    "bekers": "https://www.transfermarkt.nl/thibaut-courtois/erfolge/spieler/108390"
+  },
+  {
+    "naam": "Marcus Rashford",
+    "leeftijd": 25,
+    "positie": "Aanvaller",
+    "club": "Manchester United",
+    "nationaliteit": "Engeland",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8CbiQNtQD7dFO6oX_rMfuHg7InpNYDjg8PqaF_CJOv_E0YV1XLXa6W3MRtAtTJ2bwNpkOKhAQAcCTA7TkMn-h2sh5QLP3z769vXtFYjCVd6nX7w-EXrRbbtO5-G20zoobpOtkMWzst96cIUMttmGZBA_0Q07B6hdtaqLbZ5T1GDjTPPmLJKjh813hcQ/s749/6df9970f-3746-4796-9edc-8ccf92f59b2f.webp",
+    "bekers": "https://www.transfermarkt.nl/marcus-rashford/erfolge/spieler/258923"
+  },
+  {
+    "naam": "David Alaba",
+    "leeftijd": 30,
+    "positie": "Verdediger",
+    "club": "Real Madrid",
+    "nationaliteit": "Oostenrijk",
+    "img": "https://www.realmadrid.com/img/cc_1920px/nd_alaba-celebracion-bernabeu-_avc1409_20220623115105.jpg",
+    "bekers": "https://www.transfermarkt.nl/david-alaba/erfolge/spieler/59016"
+  },
+  {
+    "naam": "Jorginho",
+    "leeftijd": 31,
+    "positie": "Middenvelder",
+    "club": "Chelsea",
+    "nationaliteit": "Italië",
+    "img": "https://img.chelseafc.com/image/upload/f_auto,w_1440,c_fill,g_faces,q_90/editorial/news/2021/07/12/Jorginho-Euro-2020-trophy.jpg",
+    "bekers": "https://www.transfermarkt.nl/jorginho/erfolge/spieler/102017"
+  },
+  {
+    "naam": "Federico Valverde",
+    "leeftijd": 24,
+    "positie": "Middenvelder",
+    "club": "Real Madrid",
+    "nationaliteit": "Uruguay",
+    "img": "https://cdn.vox-cdn.com/thumbor/ACmw2Vd_S5W8mLctOdzICCVH18E=/0x0:1764x2020/1200x800/filters:focal(1230x599:1512x881)/cdn.vox-cdn.com/uploads/chorus_image/image/70989404/1399964960.0.jpg",
+    "bekers": "https://www.transfermarkt.nl/federico-valverde/erfolge/spieler/369081"
+  },
+  {
+    "naam": "Kingsley Coman",
+    "leeftijd": 26,
+    "positie": "Aanvaller",
+    "club": "Bayern München",
+    "nationaliteit": "Frankrijk",
+    "img": "https://vi.cdn.pxr.nl/.imaging/mte/vinl-website-theme/760x428/dam/articles/2020/08/24/copyright-proshots-8988262.jpg/jcr:content/copyright-proshots-8988262.jpg",
+    "bekers": "https://www.transfermarkt.nl/kingsley-coman/erfolge/spieler/243714"
+  }
+]
