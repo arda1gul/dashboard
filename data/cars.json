@@ -1,0 +1,220 @@
+[
+      {
+        "merk": "Mercedes-Benz",
+        "model": "S-Klasse",
+        "bouwjaar": 2022,
+        "prijs": 95000,
+        "motor": "3.0L V6",
+        "img": "https://hips.hearstapps.com/hmg-prod/images/2021-mercedes-benz-s580-172-edit-1631555006.jpg?crop=0.563xw:0.631xh;0.383xw,0.369xh&resize=640:*"
+
+      },
+      {
+        "merk": "Mercedes-Benz",
+        "model": "A 250e",
+        "bouwjaar": 2020,
+        "prijs": 43111,
+        "motor": "Hybride Motor",
+        "img": "img/a250e.png"
+      },
+      {
+        "merk": "Audi",
+        "model": "A8",
+        "bouwjaar": 2023,
+        "prijs": 85000,
+        "motor": "3.0L V6",
+        "img": "https://www.motortrend.com/uploads/2022/07/2023-Audi-A8-42-front-three-quarter-view.jpg"
+      },
+      {
+        "merk": "Porsche",
+        "model": "Panamera",
+        "bouwjaar": 2023,
+        "prijs": 105000,
+        "motor": "2.9L V6",
+        "img": "https://res.cloudinary.com/ho5waxsnl/image/upload/c_fill,f_auto,h_540,q_auto,w_960/rw3qkmebqqqu0icye52olxl1ny80"
+      },
+      {
+        "merk": "Bentley",
+        "model": "Flying Spur",
+        "bouwjaar": 2022,
+        "prijs": 205000,
+        "motor": "4.0L V8",
+        "img": "https://media.autoweek.nl/m/3payt0ebbxfm.jpg"
+      },
+      {
+        "merk": "Rolls-Royce",
+        "model": "Ghost",
+        "bouwjaar": 2023,
+        "prijs": 330000,
+        "motor": "6.75L V12",
+        "img": "https://autotijd.be/images/rolls-royce/2021/ghost/specs/rolls-royce-ghost-2021-specs-01.jpg"
+      },
+      {
+        "merk": "Tesla",
+        "model": "Model S",
+        "bouwjaar": 2023,
+        "prijs": 90000,
+        "motor": "Elektrisch",
+        "img": "https://ev-database.org/img/auto/Tesla_Model_S_2021/Tesla_Model_S_2021-02.jpg"
+      },
+      {
+        "merk": "Mercedes-Benz",
+        "model": "Gle 63s Larte Design",
+        "bouwjaar": 2022,
+        "prijs": 195000,
+        "motor": "5.9L V12",
+        "img": "https://i.ytimg.com/vi/mQfEsKoQPL8/maxresdefault.jpg"
+      },
+      {
+        "merk": "Volkswagen",
+        "model": "Golf 8 GTI",
+        "bouwjaar": 2023,
+        "prijs": 100000,
+        "motor": "3.8L V8",
+        "img": "https://mysterio.yahoo.com/mysterio/api/29E0C13E25CC17E83B8B0787B25660D014A3E6916A591AE72353B1CB751FF291/autoblog/resizefill_w660_h372;quality_80;format_webp;cc_31536000;/https://s.aolcdn.com/os/ab/_cms/2022/10/25152947/16093-2023VolkswagenGolfGTI40thAnniversaryEdition.jpg"
+      },
+      {
+        "merk": "Ferrari",
+        "model": "GTC4Lusso",
+        "bouwjaar": 2022,
+        "prijs": 320000,
+        "motor": "6.3L V12",
+        "img":"https://fotos.jornaldocarro.estadao.com.br/wp-content/uploads/2020/09/02173547/Ferrari-GTC4_Lusso_T-2017-1600-09-1160x834.jpg"
+      },
+      {
+        "merk": "Lamborghini",
+        "model": "Aventador",
+        "bouwjaar": 2023,
+        "prijs": 420000,
+        "motor": "6.5L V12",
+        "img": "https://www.louwmanexclusive.nl/app/uploads/autobedrijfvoertuigen/voertuig/33.310.453/11533065524-33310453-1.jpg"
+      },
+      {
+        "merk": "McLaren",
+        "model": "GT",
+        "bouwjaar": 2022,
+        "prijs": 250000,
+        "motor": "4.0L V8",
+        "img": "https://www.louwmanexclusive.nl/app/uploads/autobedrijfvoertuigen/voertuig/27.053.777/7757107917-27053777-1.jpg"
+      },
+      {
+        "merk": "Bugatti",
+        "model": "Chiron",
+        "bouwjaar": 2023,
+        "prijs": 3000000,
+        "motor": "8.0L W16",
+        "img": "https://cdn.pureluxe-services.nl/wp-content/uploads/2022/09/14113715/andrew-tate.jpeg"
+      },
+      {
+        "merk": "Koenigsegg",
+        "model": "Regera",
+        "bouwjaar": 2022,
+        "prijs": 2200000,
+        "motor": "5.0L V8",
+        "img": "https://www.autoblog.nl/files/2023/04/koenigsegg-regera-veiling-970-006.jpg"
+      },
+      {
+        "merk": "Porsche",
+        "model": "911 Turbo S",
+        "bouwjaar": 2023,
+        "prijs": 200000,
+        "motor": "3.8L Flat-6",
+        "img": "https://i.ytimg.com/vi/A0T0_I_YQWA/maxresdefault.jpg"
+      },
+      {
+        "merk": "Ferrari",
+        "model": "812 Superfast",
+        "bouwjaar": 2022,
+        "prijs": 360000,
+        "motor": "6.5L V12",
+        "img": "https://cdn.autotrack.nl/cdn-cgi/image/f=auto,height=4096/53921198/0-83607eaccfa635678d2d1f752c76d53b.jpg"
+      },
+      {
+        "merk": "Lamborghini",
+        "model": "Huracan",
+        "bouwjaar": 2023,
+        "prijs": 250000,
+        "motor": "5.2L V10",
+        "img": "https://hips.hearstapps.com/hmg-prod/images/2022-lamborghini-huracan-tecnica-101-1657303967.jpg?crop=0.700xw:0.790xh;0.0717xw,0.183xh&resize=640:*"
+      },
+      {
+        "merk": "Aston Martin",
+        "model": "DBS Superleggera",
+        "bouwjaar": 2022,
+        "prijs": 320000,
+        "motor": "5.2L V12",
+        "img": "https://media.autoweek.nl/m/sibynxjblnea_800.jpg"
+      },
+      {
+        "merk": "Bentley",
+        "model": "Continental GT",
+        "bouwjaar": 2023,
+        "prijs": 250000,
+        "motor": "4.0L V8",
+        "img": "https://hips.hearstapps.com/hmg-prod/images/2023-bentley-continental-gt-s-coupe-101-1654526518.jpg?crop=0.733xw:0.550xh;0.0798xw,0.284xh&resize=1200:*"
+      },
+      {
+        "merk": "Rolls-Royce",
+        "model": "Cullinan",
+        "bouwjaar": 2022,
+        "prijs": 385000,
+        "motor": "6.8L V12",
+        "img": "https://dashboard.kaiandkaro.com/media/vehicles/images/WhatsApp_Image_2023-03-27_at_10.41.19.jpeg"
+      },
+      {
+        "merk": "Mercedes-Benz",
+        "model": "AMG GT",
+        "bouwjaar": 2023,
+        "prijs": 140000,
+        "motor": "4.0L V8",
+        "img": "https://www.mercedes-benz.nl/passengercars/mercedes-benz-cars/models/amg-gt/coupe-c190/explore/highlights/_jcr_content/contentgallerycontainer/par/contentgallery/par/contentgallerytile_8/image.MQ6.0.20200907115803.jpeg"
+      },
+      {
+        "merk": "Audi",
+        "model": "RS7",
+        "bouwjaar": 2022,
+        "prijs": 110000,
+        "motor": "4.0L V8",
+        "img": "https://cdn.motor1.com/images/mgl/9o9ly/s1/2020-audi-rs7-sportback.jpg"
+      },
+      {
+        "merk": "BMW",
+        "model": "M8",
+        "bouwjaar": 2023,
+        "prijs": 130000,
+        "motor": "4.4L V8",
+        "img": "https://cdn.carbuzz.com/gallery-images/1600/947000/700/947722.jpg"
+      },
+      {
+        "merk": "Porsche",
+        "model": "Cayenne Turbo S",
+        "bouwjaar": 2022,
+        "prijs": 160000,
+        "motor": "4.0L V8",
+        "img": "https://www.europeanprestige.co.uk/blobs/stock/249/images/9b3e7d88-4025-4438-9633-efa1f4b8208c/1j6a1345-edit.jpg?width=2000&height=1333"
+      },
+      {
+        "merk": "Maserati",
+        "model": "GranTurismo",
+        "bouwjaar": 2022,
+        "prijs": 180000,
+        "motor": "4.7L V8",
+        "img": "https://clickandcars.com/wp-content/uploads/2023/03/bd02415304fc6ea6a50d97ff0b9a0c95-3.jpg"
+      },
+      {
+        "merk": "Tesla",
+        "model": "Model X",
+        "bouwjaar": 2022,
+        "prijs": 85000,
+        "motor": "Elektrisch",
+        "img": "https://hips.hearstapps.com/hmg-prod/images/0x0-modelx-06-1639085819.jpg"
+      },
+      {
+        "merk": "Mercedes-Benz",
+        "model": "Brabus E800",
+        "bouwjaar": 2019,
+        "prijs": 85000,
+        "motor": "4L V8",
+        "img": "https://i.ytimg.com/vi/DdSZlXd37Ig/mqdefault.jpg"
+      }
+    ]
+  

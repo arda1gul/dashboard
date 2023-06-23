@@ -1,0 +1,119 @@
+body {
+    background: #16222A;
+    background: -webkit-linear-gradient(to right, #3A6073, #16222A);
+    background: linear-gradient(to right, #3A6073, #16222A);
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.navbar-info {
+    background: rgba(255, 255, 255, .15);
+    backdrop-filter: blur(10px);
+    height: 100px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-valuta {
+    font-size: 43px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 6px;
+    margin-left: 20px;
+    color: white;
+}
+.dropdown {
+    margin-right: 15px;
+}
+
+.hover-info {
+    opacity: 0.6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hover-info:hover {
+    opacity: 1;
+    color: white;
+}
+
+.navbar-valuta:hover {
+    color: white;
+}
+
+.active-info {
+    color: darkblue;
+    opacity: 1;
+}
+
+.log-out-btn {
+    font-size: 25px;
+    margin-left: 15px;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.log-out-btn:hover {
+    background-color: white;
+    border-color: white;
+    color: black;
+    transition: 0.7s;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    background: white;
+    width: 270px;
+    margin: 15px;
+    border-radius: 15px;
+}
+
+.card-image {
+    height: 170px;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+
+.card a {
+    background-color: black;
+    color: white;
+    padding: 15px 20px;
+    display: block;
+    text-align: center;
+    margin: 20px 50px;
+}
+
+.arcadetext {
+    color: black;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 43px;
+}
+
+.playnow1 {
+    text-align: center;
+}
+
+.tictactoetext {
+    text-align: center;
+}
+
+.higherlowertext {
+    text-align: center;
+}
+
+.rockpaperscissorstext {
+    text-align: center;
+}
